@@ -1,0 +1,6 @@
+t=[(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]
+t1=[]
+for i in t:
+        if i!=():
+                t1.append(i)
+print(t1)
