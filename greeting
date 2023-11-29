@@ -1,0 +1,4 @@
+def greet(x):
+    print(f'My Name is {x}')
+name=input("enter your Name")
+greet(name)
