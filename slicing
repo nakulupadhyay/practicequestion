@@ -1,0 +1,2 @@
+String = 'GEEKSFORGEEKS'
+print(String[-1:-12:-2])
