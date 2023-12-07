@@ -1,0 +1,5 @@
+st='hello world'
+if type(st)==str:
+      print('it is a string')
+else:
+    print('Not a string')
