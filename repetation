@@ -1,0 +1,3 @@
+ls=[3,6]
+out=ls*2
+print(out)
