@@ -1,0 +1,7 @@
+st="hello world"
+pt='o'
+start=0
+for i in range(st.count(pt)):
+          re=st.index(pt,start)
+          print(re)
+          start=re+1
