@@ -1,0 +1,3 @@
+st="hello world"
+out=st.capitalize()
+print(out)
