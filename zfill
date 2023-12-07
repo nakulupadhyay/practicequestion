@@ -1,0 +1,3 @@
+st='3672'
+out=st.zfill(10)
+print(out)
